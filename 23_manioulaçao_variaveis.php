@@ -24,7 +24,7 @@
         echo "<hr>";
         echo "Procurar o nome José ". strpos( "Robson José de Souza", "José"); // Procura a palavra e retorna a possição
         echo "<hr>";
-        echo str_replace ("Robson", "Sofia", "Robson Souza")//Troca a informação 
+        echo str_replace ("Robson", "Sofia", "Robson Souza");//Troca a informação 
         echo "<hr>";
 
         

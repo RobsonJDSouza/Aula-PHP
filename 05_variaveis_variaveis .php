@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teste</title>
+    <title>Comentários</title>
     </head>
     <style>
         *{
@@ -13,15 +13,13 @@
     </style>
 
     <body>
-
         <?php
+            $bebida = "refrigerante";
+            $$bebida= "suco";
 
-            $nome = "Robson Souza";
-            function exibeNome() {
-                echo $nome;
-            }
-            exibeNome ();
-
+            echo $bebida;
+            echo "<br>";
+            echo $refrigerante;
         ?>
     </body>
 </html>

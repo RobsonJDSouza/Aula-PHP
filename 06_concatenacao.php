@@ -13,6 +13,7 @@
     </style>
 
     <body>
+
         <?php
             $teste = 5;
             $teste1 = 3;
@@ -22,7 +23,8 @@
             echo ' <br/>';
             //Aspas dupla 
         
-            echo "A soma de  $teste mais $teste1 = $teste + $teste1"
+            echo "A soma de  $teste + $teste1 = \"$teste + $teste1\"" //colocar aspas em uma palavra
         ?>
+        
     </body>
 </html>
