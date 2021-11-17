@@ -15,15 +15,9 @@
     <body>
 
     <?php
-
-        $idade = 10 ;
-        $peso = 80  ;
-
-        if ($idade <= 69 && $peso <=70){
-            echo 'Atende os requisitos. Poderá doar sangue' ;
-        }else{
-            echo 'Não atende aos requisitos. Não poderá doar sangue' ;
-        }
+    //Constante
+    define (Nome; "Robson José");
+    echo Nome;
     ?>
     
     </body>

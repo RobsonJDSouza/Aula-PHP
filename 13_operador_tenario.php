@@ -24,8 +24,6 @@
         echo '</br>' ;
         echo  'Valor digitado = '. $valor ;
     ?>
-
-
-
+    
 </body>
 </html>
