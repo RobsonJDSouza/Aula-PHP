@@ -16,11 +16,11 @@
 
         <?php
 
-            $nome = "Robson Souza";
-            function exibeNome() {
-                echo $nome;
-            }
-            exibeNome ();
+          $nomes = array ("Robson", "Ana", "Sofia");
+          echo '<pre>';
+          print_r ($nomes);
+          echo '<br>';
+          print_r (array)[1]
 
         ?>
     </body>
