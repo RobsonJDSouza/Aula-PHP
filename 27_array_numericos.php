@@ -14,7 +14,7 @@
     <body>
 
     <?php
-    // Array padrão
+    // Array Numéricos - Quqando os índices são inteiros
     $nomes = array('Robson', 'Ana', 'Sofia');
     echo '<pre>'; //O elemento html pre está organizando todas informações, ela não foi fechada
     print_r ($nomes); //Debudar a Array
